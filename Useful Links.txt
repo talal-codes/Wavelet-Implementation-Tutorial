@@ -1,0 +1,21 @@
+Here are links to some useful Documentations related to wavelet analysis in MATLAB that you should look at:
+
+https://www.mathworks.com/help/wavelet/
+
+https://www.mathworks.com/help/wavelet/getting-started-with-wavelet-toolbox.html
+
+https://www.mathworks.com/discovery/wavelet-transforms.html
+
+https://www.mathworks.com/help/wavelet/ref/cwt.html#bvaytl3-wname
+
+https://www.mathworks.com/help/wavelet/ref/dwt.html
+
+https://www.mathworks.com/help/wavelet/ref/idwt.html
+
+https://www.mathworks.com/help/wavelet/ref/wavedec.html
+
+https://www.mathworks.com/help/wavelet/ref/waverec.html
+
+https://www.mathworks.com/help/wavelet/ug/one-dimensional-multisignal-analysis.html
+
+https://www.mathworks.com/help/wavelet/ref/mdwtdec.html#mw_14aeccba-9912-41ad-88d5-74d9ea6080a7
